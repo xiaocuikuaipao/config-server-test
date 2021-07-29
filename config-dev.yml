@@ -1,5 +1,7 @@
 server:
   port: 8001
+config: 
+  Info: abc
 
 
 spring:
